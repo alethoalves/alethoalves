@@ -30,4 +30,5 @@ Meu objetivo profissional é auxiliar pessoas e empresas a desenvolverem suas at
   - GitHub @alethoalves
   - Instagram @aletho.dev
   - Email alethoalves@gmail.com
+  - LinkedIn /aletho-alves
   
